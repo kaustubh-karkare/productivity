@@ -45,7 +45,7 @@
     "draft-js-markdown-shortcuts-plugin": "^0.6.1",
     "draft-js-mention-plugin": "^3.1.5",
     "draft-js-plugins-editor": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "markdown-draft-js": "^2.2.1",
     "prop-types": "^15.7.2",
     "query-string": "^6.13.1",
